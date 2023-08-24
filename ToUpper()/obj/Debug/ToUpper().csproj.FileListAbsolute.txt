@@ -1,7 +1,0 @@
-C:\Users\pc\OneDrive\바탕 화면\C#\Github\ToUpper()\bin\Debug\ToUpper().exe.config
-C:\Users\pc\OneDrive\바탕 화면\C#\Github\ToUpper()\bin\Debug\ToUpper().exe
-C:\Users\pc\OneDrive\바탕 화면\C#\Github\ToUpper()\bin\Debug\ToUpper().pdb
-C:\Users\pc\OneDrive\바탕 화면\C#\Github\ToUpper()\obj\Debug\ToUpper().csproj.AssemblyReference.cache
-C:\Users\pc\OneDrive\바탕 화면\C#\Github\ToUpper()\obj\Debug\ToUpper().csproj.CoreCompileInputs.cache
-C:\Users\pc\OneDrive\바탕 화면\C#\Github\ToUpper()\obj\Debug\ToUpper().exe
-C:\Users\pc\OneDrive\바탕 화면\C#\Github\ToUpper()\obj\Debug\ToUpper().pdb
