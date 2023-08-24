@@ -1,0 +1,7 @@
+C:\Users\pc\OneDrive\바탕 화면\C#\Github\Substring\bin\Debug\Substring.exe.config
+C:\Users\pc\OneDrive\바탕 화면\C#\Github\Substring\bin\Debug\Substring.exe
+C:\Users\pc\OneDrive\바탕 화면\C#\Github\Substring\bin\Debug\Substring.pdb
+C:\Users\pc\OneDrive\바탕 화면\C#\Github\Substring\obj\Debug\Substring.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\바탕 화면\C#\Github\Substring\obj\Debug\Substring.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\바탕 화면\C#\Github\Substring\obj\Debug\Substring.exe
+C:\Users\pc\OneDrive\바탕 화면\C#\Github\Substring\obj\Debug\Substring.pdb
