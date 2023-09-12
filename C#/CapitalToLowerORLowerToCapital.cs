@@ -23,7 +23,7 @@ namespace CapitalToLowerORLowerToCapital
                 // ToLower() and ToUpper() method is used by comparing "character" 
             }
 
-            //Option 2 : Using for loop & if()
+            //Option 2: Using for loop & if()
 
             string result2 = "";
 
